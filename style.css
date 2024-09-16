@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid 4px;
+    border-radius: 10px;
+}
+
+.container {
+    background-color: hwb(328 22% 13%);
+    border-radius: 10px;
+    width: 1500px;
+    height: 500px;
+}
+
+h1 {
+    align-items: center;
+    font-size: 115px;
+    color: aliceblue;
+    margin-left: 165px;
+    text-align: center;
+    margin-right: 160px;v
+}
+
+p {
+    color: aliceblue;
+    margin-left: 700px;
+}
+
+h4 {
+    color: aliceblue;
+    text-align: center;
+}
+
+h5 {
+    color: aliceblue;
+    text-align: center;
+}
